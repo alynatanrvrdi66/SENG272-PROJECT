@@ -66,6 +66,9 @@ src
 ```
 
 ---
+# Demo Video
+
+[Watch Demo Video](./demo-compressed.mp4)
 
 # Authors
 - Aleyna Tanrıverdi
